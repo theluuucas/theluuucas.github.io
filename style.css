@@ -70,7 +70,7 @@ ul {
 
 
 /* Content */
-.container img {
+container {
 	width: 250px;
 	height: 250px;
 	padding: 0;
