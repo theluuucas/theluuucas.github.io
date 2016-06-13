@@ -77,3 +77,9 @@ ul {
 	padding: 15px;
 	margin: 0;
 }
+.box1 li div {
+    width:50%;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
