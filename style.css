@@ -78,13 +78,12 @@ ul {
 	margin: 0;
 }
 .box1 {
-
-    width: 50%;
+    width: 300px;
     padding: 25px;
-    border: 25px navy blue
-   ;
+    border: 25px solid navy;
     margin: 25px;
-}
+
+
 }
 
 
