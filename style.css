@@ -81,7 +81,8 @@ ul {
 
     width: 50%;
     padding: 25px;
-    border: 5px Red;
+    border: 5px #FF0000
+   ;
     margin: 5px;
 }
 }
