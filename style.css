@@ -79,7 +79,7 @@ ul {
 	padding: 15px;
 	margin: 0;
 }
-p1 {
+p {
     width: 300px;
     padding: 25px;
     border: 5px ;
@@ -88,10 +88,6 @@ p1 {
 
 }
 
-p {
-   margin-left:33%;	
-   margin right:-33%;
-}
 
 table{
     width:75%;
