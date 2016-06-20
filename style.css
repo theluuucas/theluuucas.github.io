@@ -105,9 +105,8 @@ table{
 #myCarousel{
 	width: 100% !important;
 	height: 300px !important;
-	
+	background-size: cover;
 }
  .item img {    
      background-repeat:no-repeat;
-     background-size: cover;
 }
