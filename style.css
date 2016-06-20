@@ -102,9 +102,12 @@ table{
 }
 
 
-.item img{
-     
+#myCarousel{
+	width: 100% !important;
+	height: 300px !important;
+	
+}
+ .item img {    
      background-repeat:no-repeat;
-     width:100%;
-     height: 300px;
+     background-size: cover;
 }
