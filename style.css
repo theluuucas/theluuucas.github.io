@@ -109,4 +109,6 @@ table{
 }
  .item img {    
      background-repeat:no-repeat;
+     height:300px;
+     width:750px;
 }
