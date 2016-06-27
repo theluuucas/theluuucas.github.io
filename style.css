@@ -58,6 +58,7 @@ ul {
 .nav li:last-child {
 	border: none;
 	background: #2b82b9;
+	color:#e5eaea;
 }
 
 .active {
