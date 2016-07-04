@@ -138,3 +138,8 @@ table{
      font-weight: bold;
      font size: 14px;
 }
+
+hr{
+    height: 10px;
+    color: #e74c3c;
+}
