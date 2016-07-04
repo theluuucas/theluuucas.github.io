@@ -80,6 +80,12 @@ ul {
 	padding: 15px;
 	margin: 0;
 }
+
+.container h2, h4{
+      font-weight: normal;
+      font-size: 20pt;
+}
+
 p {
     width: 300px;
     padding: 25px;
