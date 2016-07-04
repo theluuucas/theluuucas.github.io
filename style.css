@@ -118,3 +118,10 @@ table{
     background-color: #2ecc71;
     
 }
+
+.isometric_img {
+    width: 250px;
+	height: 250px;
+	padding: 15px;
+	margin: 0;
+}
