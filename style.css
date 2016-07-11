@@ -55,6 +55,12 @@ ul {
 	line-height: 30px;
 }
 
+
+.nav li:4th-child{
+	border-right:none;
+}
+     
+
 .nav li:last-child {
 	border: none;
 	background: #2b82b9;
