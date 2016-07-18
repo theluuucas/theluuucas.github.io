@@ -164,5 +164,5 @@ hr{
     height: 140px;
     text-decoration: none;
     font-family: "Roboto";
-    display: block;
+    display: inline-block;
 } 
