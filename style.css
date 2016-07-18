@@ -157,12 +157,16 @@ hr{
 /* sortable and draggable list */
 .sortable{
      background: #e5eaea;  
+     margin-left: 300px;
 }
 
 .sortable li {
     width: 140px;
     height: 140px;
     text-decoration: none;
+    text-align: center
+    font-size: 14px;
+    font-weight: bold;
     font-family: "Roboto";
     display: inline-block;
 } 
