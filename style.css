@@ -151,3 +151,14 @@ hr{
     background-color: #e74c3c;
     border: none;
 }
+
+
+
+/* sortable and draggable list */
+.sortable li {
+    width: 140px;
+    height: 140px;
+    text-decoration: none;
+    font-family: "Roboto"
+    
+} 
